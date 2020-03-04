@@ -2,6 +2,8 @@
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
 
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=security_rating)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
+
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=code_smells)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=bugs)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
