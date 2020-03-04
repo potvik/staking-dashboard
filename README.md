@@ -4,6 +4,12 @@
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=bugs)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=ncloc)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
+
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=coverage)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
+
 
 # Local Development
 
