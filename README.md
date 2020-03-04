@@ -1,6 +1,4 @@
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=ncloc)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
-
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=ncloc)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=potvik_staking-dashboard&metric=security_rating)](https://sonarcloud.io/dashboard?id=potvik_staking-dashboard)
 
